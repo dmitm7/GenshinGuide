@@ -5,7 +5,7 @@ from help_commands import *
 
 
 config = {
-    'token': 'OTc2NDIyMjgwODk0NzY3MTE0.GCi5QJ.kS_3L2UK9xG0V-3y_f9EAqlRwihFqkB41MWT90',
+    'token': 'OTc2NDIyMjgwODk0NzY3MTE0.GV5INy.T1KN7jXh5ItbTI8-1UWFDxGvhPObQDTyTKjxIE',
     'prefix': '!',
 }
 bot = commands.Bot(command_prefix=config['prefix'])
